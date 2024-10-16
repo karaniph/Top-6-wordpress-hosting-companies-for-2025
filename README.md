@@ -6,7 +6,7 @@ The document also provides recommendations for different types of users, includi
 
 ## Key takeaways
 
-* Hostinger and HostGator offer the most affordable plans, while Kinsta is the most expensive. [cite: 9, 10, 11]
+* [Hostinger(https://bit.ly/3B1qs7M)] and HostGator offer the most affordable plans, while Kinsta is the most expensive. 
 * Contabo provides the most storage (400GB SSD), followed by Hostinger (100GB SSD). [cite: 9, 10, 11]
 * Hostinger allows the most websites (100) on their cheapest plan, followed by HostGator (10). [cite: 9, 10, 11]
 * All top-rated hosts offer 24/7 support, with most providing both chat and email options. [cite: 12]
