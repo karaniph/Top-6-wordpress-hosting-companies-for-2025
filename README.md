@@ -17,7 +17,7 @@ The document also provides recommendations for different types of users, includi
 
 * **For WordPress blogs:** Hostinger or HostGator 
 * **For WordPress e-commerce sites:** Kinsta or [Liquid Web](https://bit.ly/47udTxR)
-* **For users needing maximum storage:** [Contabo] (https://bit.ly/4d6wBwH)
+* **For users needing maximum storage:** [Contabo](https://bit.ly/4d6wBwH)
 
 ## Remember
 
